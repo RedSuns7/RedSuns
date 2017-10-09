@@ -1,1 +1,1 @@
-printf("Hello git!);
+printf("Hello git! Привет гит!);
